@@ -5,7 +5,7 @@ This project was conducted by create an e-commerce database using Data Definitio
 ## Goal
 - Analyze the best-selling products, potential customers, and revenue per category.
 
-## Features
+## Key Objectives
 - Create tables customers, products, orders, and order_items using Data Defined Language and Data Manipulation Language.
 - Data Cleaning and Verification by checking duplicate customers, orders with missing or invalid data, and price consistency check.
 - Basic SELECT queries.
