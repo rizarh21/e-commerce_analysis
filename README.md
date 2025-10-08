@@ -17,3 +17,8 @@ This project was conducted by create an e-commerce database using Data Definitio
 
 ## Tools
 - PostgreSQL
+
+## Insights
+- Electronics category products contributed the highest revenue.
+- Customers in the state of Texas had the most active purchase rate.
+- Some products showed price differences between stock and transactions that needed to be reviewed.
